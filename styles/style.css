@@ -1,0 +1,35 @@
+header {
+    background-color: blue;
+    height: 75px;
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+#logo {
+    height: 40px;
+    width: 40px;
+    background-color: white;
+    border-radius: 100%;
+    margin: 10px 50px 10px 10px;
+}
+#logo img {
+    height: 100%;
+    width: 100%;
+}
+
+header a {
+    background-color: green;
+    margin-right: 15px;
+    align-self: flex-end;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+}
+header h1 {
+    margin-left: 20%;
+}
+
+body {
+    margin: 0;
+}
