@@ -33,3 +33,9 @@ header h1 {
 body {
     margin: 0;
 }
+
+footer {
+    background-color: blue;
+    height: 50px;
+    display: flex;
+}
