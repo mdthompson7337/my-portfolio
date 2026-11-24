@@ -39,3 +39,16 @@ footer {
     height: 50px;
     display: flex;
 }
+
+footer p {
+    color: white;
+    margin-left: 10px;
+    margin-right: 10%;
+}
+
+.social {
+    justify-self: flex-end;
+}
+.social img {
+    border-radius: 100%;
+}
