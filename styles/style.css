@@ -38,6 +38,7 @@ footer {
     background-color: blue;
     height: 50px;
     display: flex;
+    justify-content: space-around;
 }
 
 footer p {
@@ -45,10 +46,6 @@ footer p {
     margin-left: 10px;
     margin-right: 10%;
 }
-
-.social {
-    justify-self: flex-end;
-}
-.social img {
+#social img {
     border-radius: 100%;
 }
