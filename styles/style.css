@@ -34,15 +34,21 @@ header a {
     padding: 10px;
     color: white;
     text-decoration: none;
+    margin-bottom: 10px;
+    border-radius: 15px;
 }
+header a:hover {
+    background-color: #1d2e5a;
+}
+
 header h1 {
     margin-left: 20%;
-    font-family: 'Almarai';
+    font-family: 'Secular One';
 }
 
 body {
     margin: 0;
-    font-family: 'Secular One';
+    font-family: 'Almarai';
 }
 
 footer {
