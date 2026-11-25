@@ -86,4 +86,7 @@ footer p {
 #home-page {
     margin-right: 15%;
     margin-left: 15%;
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
 }
