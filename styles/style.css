@@ -13,6 +13,8 @@ header {
     display: flex;
     align-items: center;
     width: 100%;
+    position: sticky;
+    top: 0;
 }
 
 #logo {
@@ -78,5 +80,5 @@ footer p {
 #social img {
     border-radius: 100%;
     padding: 5px;
-    background-color: white;
+    background-color: var(--secondary-color);
 }
