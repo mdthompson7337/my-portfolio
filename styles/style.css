@@ -82,3 +82,8 @@ footer p {
     padding: 5px;
     background-color: var(--secondary-color);
 }
+
+#home-page {
+    margin-right: 15%;
+    margin-left: 15%;
+}
