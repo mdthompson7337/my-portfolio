@@ -108,6 +108,9 @@ footer p {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
 }
+#gallery-page img {
+    width: 100%;
+}
 #gallery-page img:nth-of-type(1) {
     grid-row: 1/2;
     grid-column: 1/2;
