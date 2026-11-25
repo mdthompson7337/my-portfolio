@@ -90,3 +90,9 @@ footer p {
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
+#home-page img {
+    width: 100%;
+}
+#home-page #profile-pic {
+    grid-row: 1/3;
+}
